@@ -174,7 +174,7 @@ video {
     align-items: center;
     position: relative;
     width: 100%;
-    height: 1000px;
+    height: 950px;
     flex-shrink: 0;
     transition: left 0.15s;
 }
@@ -183,11 +183,12 @@ video {
     text-align: center;
     margin-top: 30px;
     margin-right: 20px;
+    font-size: 34px;
 }
 
 .slide_item p {
     width: 292px;
-    font-size: 22px;
+    font-size: 20px;
     padding-top: 30px;
     margin-left: 30px;
 }
@@ -198,8 +199,6 @@ video {
     align-items: center;
     position: absolute;
     top: calc(50% - 16px);
-    width: 35px;
-    height: 60px;
 }
 
 .slide_prev_button {
@@ -207,6 +206,12 @@ video {
 }
 .slide_next_button {
     right: -10px;
+}
+
+.slide_prev_button img ,
+.slide_next_button img {
+    width: 45px;
+    height: 65px;
 }
 
 ul,
