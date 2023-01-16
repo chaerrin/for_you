@@ -1,18 +1,16 @@
 @charset "utf-8";
 
-.container { /* 그리드시스템 */
+.container {
     position: relative;
     width: 1200px;
     margin: 0 auto;
-    padding: 0 10px; /* 그리드시스템 좌측 우측의 마진 */
+    padding: 0 10px;
 }
 
 .wrapper {
     width: 100%;
 }
 
-
-/* ========= header ========= */
 header {
     position: relative;
     width: 100%;
@@ -20,19 +18,16 @@ header {
     background-color: #101f5a;
 }
 
-/* logo-menu */
 .logo-menu {
     display: flex;
     justify-content: space-between;
 }
 
-/* logo */
 .logo {
     margin-top: 32px;
     margin-left: 32px;
 }
 
-/* right-menu */
 .right-menu {
     margin-top: 32px;
     margin-bottom: 21px;
@@ -82,7 +77,7 @@ header {
     height: 30px;
 }
 
-/* ========= main ========= */
+
 main {
     width: 100%;
     background: url(../images/background.png) no-repeat left top;
@@ -129,7 +124,6 @@ main {
     margin-right: 70px;
 }
 
-/* video */
 .video-content {
     margin-top: 117px;
     margin-bottom: 60px;
@@ -143,7 +137,6 @@ video {
     width: 293px;
 }
 
-/* ------------------------------------- */
 
 .slide {
     display: flex;
@@ -249,7 +242,6 @@ li {
     transition: left 0.15s;
 }
 
-/* --------------------------------- */
 
 .content-copyright {
     width: 100%;
@@ -301,7 +293,6 @@ li {
 }
 
 
-/* ========= footer ========= */
 footer {
     clear: both;
     width: 100%;
@@ -314,7 +305,6 @@ footer {
     border-bottom: 1px solid #f7f8fa;
 }
 
-/* menu-flex-box */
 .menu-flex-box {
     display: flex;
     height: 50px;
@@ -356,7 +346,6 @@ footer {
     font-style: normal;
 }
 
-/* footer-bottom */
 .footer-bottom {
     width: 100%; height: 56px;
     border-top: 1px solid #f7f8fa;
@@ -377,8 +366,6 @@ footer {
     margin-left: 28px;
 }
 
-
-/* fixed-menu */
 .fixed-menu {
     position: fixed;
     right: 90px;

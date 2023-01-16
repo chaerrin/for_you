@@ -6,7 +6,6 @@
    box-sizing: border-box;
 }
 
-/*new font*/
 @font-face{
    src:url("../font/MaruBuri-SB/MaruBuri-SemiBold.ttf");
    font-family : "MaruBuri-SB";
