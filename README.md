@@ -3,10 +3,7 @@
 ![벚꽃이미지](https://user-images.githubusercontent.com/114633626/214777030-3faed293-65bc-4e6e-ba32-d105f0d86f7e.png)
 
 
-**널위해서 메인페이지** 
-
-# Fairmont Ambassador Hotel
- ![Design_Guide2](https://user-images.githubusercontent.com/103560570/204446817-4d4d3646-5607-45d7-9a48-d3edabe5d74d.png)
+**널위해서 메인페이지**
 
  ## Description
   #### 1. 이 프로젝트는 무엇을 위한 것인가요 ?
