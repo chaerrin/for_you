@@ -8,7 +8,7 @@
    사용자들이 어플 사용법을 이해하고 쉽게 사용할 수 있도록 하였습니다.
    
   #### 페이지 미리보기
-   ![full_view](https://user-images.githubusercontent.com/114633626/214779250-1eadfad0-60b2-4ba8-a37a-a867e8bffc6d.png)
+   ![full_view](https://user-images.githubusercontent.com/114633626/214779250-1eadfad0-60b2-4ba8-a37a-a867e8bffc6d.png width:80px)
 
 
   #### 타겟층
