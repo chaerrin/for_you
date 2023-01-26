@@ -9,10 +9,10 @@
    
   #### 프로젝트 정보
    제작 기간 : 4주 <br />
-   참여 인원 : 1명
-   사용 언어 : - html
-              - css
-              - javascript
+   참여 인원 : 1명 <br />
+   사용 언어 : - html <br />
+              - css <br />
+              - javascript <br />
    
   #### 페이지 미리보기
    ![full_view](https://user-images.githubusercontent.com/114633626/214779250-1eadfad0-60b2-4ba8-a37a-a867e8bffc6d.png)
