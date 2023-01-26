@@ -1,21 +1,14 @@
 # 널 위해서 웹페이지
 
-![벚꽃이미지](https://user-images.githubusercontent.com/114633626/214777030-3faed293-65bc-4e6e-ba32-d105f0d86f7e.png)
+![목업 이미지](https://user-images.githubusercontent.com/114633626/214777030-3faed293-65bc-4e6e-ba32-d105f0d86f7e.png)
 
-
-**널위해서 메인페이지**
-
- ## Description
-  #### 1. 이 프로젝트는 무엇을 위한 것인가요 ?
-   온라인으로 페어몬트 엠버서더 호텔을 이용하는 사용자에게 더 나은 경험을 제공하는 것을 목적으로 [기존의 웹페이지](https://fairmont-seoul.com/)를 
-   리뉴얼 하는 프로젝트를 진행하게 되었습니다.
+ ## 널 위해서
+  #### 프로젝트 설명
+   기존의 어플 '널 위해서'를 웹페이지로 제작하여, 사용자들이 어플을 다운받을 수 있도록 하였습니다. 또한 어플 실행영상과 어플의 기능들을 소개하는 텍스트를 넣어
+   사용자들이 어플 사용법을 이해하고 쉽게 사용할 수 있도록 하였습니다.
    
-  #### 2. 어떤 문제를 해결할 수 있었나요?
-   - [기존의 웹페이지](https://fairmont-seoul.com/)와 분리되어 운영되고 있는 [예약 페이지](https://all.accor.com/ssr/app/accor/rates/B200/index.ko.shtml?dateIn=2022-11-28&nights=1&compositions=1&stayplus=false&snu=false&accessibleRooms=false&utm_campaign=hotel_website_search&utm_medium=accor_regional_websites&_ga=2.25576826.638265187.1669519697-2069554040.1669022584&utm_source=hotelwebsite_B200)를 하나의 페어몬트 웹 안에 포함시켜 통일감 있는 웹사이트로 구성했습니다.
-
-   - 고객센터 페이지의 부재로 유선상으로 모든 문의들을 처리해야 해야 했던 문제들을 고객센터 페이지의 제작을 통해 분산할 수 있습니다 . 
-
-   - 각 페이지의 폰트 강약을 개선하여 시각적으로 개선된 경험을 제공합니다 .  
+  #### 페이지 미리보기
+   ![페이지  이미지](https://user-images.githubusercontent.com/114633626/214777030-3faed293-65bc-4e6e-ba32-d105f0d86f7e.png)
 
   #### 3. 어떤 사람들이 이 프로젝트를 사용하면 좋은가요?
    시각적인 정보를 우선하는 소비자가 다른 호텔과의 비교를 통한 예약을 고려 중에 있다면 리뉴얼된 웹을 통해 소비를 유인할 수 있습니다.
